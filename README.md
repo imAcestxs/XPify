@@ -11,7 +11,7 @@ XP Theme Pack: https://www.deviantart.com/sagorpirbd/art/XP-Themes-Final-for-Win
 
 Open Shell: https://github.com/Open-Shell/Open-Shell-Menu
 
-XP Start Buttons: https://coddec.github.io/Classic-Shell/www.classicshell.net/forum/viewtopicd332.html?f=18&t=3206&p=31103
+XP Start Buttons: https://gyazo.com/570f602179632dfda32c28cac95275c4
 
 XP Icon Pack: https://www.deviantart.com/gothago229/art/Windows-XP-icons-213276853
 
